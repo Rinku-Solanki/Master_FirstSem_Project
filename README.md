@@ -13,4 +13,4 @@ this process will continue untill 200 times/you can add/delete task 200 times un
 Developed by: Rinku Aniruddh Parmar (Matriculation No:401060366)
 Course : M.Sc.(Computer Science):1st Semester
 Subject: Introduction to Python Programming(Id: M01_04.2)(Code: M-IEIM M 1.4.2)
-Prof. :  Miss. Ghazal Nazari           
+Prof. :  Miss. Ghazal Nazari(Experienced Professor)          
