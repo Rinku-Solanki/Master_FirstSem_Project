@@ -36,3 +36,15 @@ git init =========>used to create new git repo
 git remote add origin<link>
 git remote -v ======> to verify remote
 git branch =======> to check branch
+
+git pull original main ========>which put all the changes on github to our local
+
+Undoing changes
+1)case: staged changes
+git reset <filename>
+git reset
+2)commited changes for 1 change
+git reset Head1 ~
+3)commited chages for many commits
+git reset <commit hash>
+git reset --hard<commit hash>
